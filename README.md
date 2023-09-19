@@ -3,6 +3,8 @@
 Name: Corey Presutty
 
 Email: cnpresutty@my.waketech.edu
+Email 2: Bunkerbusterhexa@users.noreply.github.com
+
 
 Brief description of Github account - I created this account for my Web, Pgm, Db Foundation class for college. I will be updating this repository 
 periodically for future assignments. Furthermore, I will be using this account to host my code repositories, learn how to properly use version control, pull requests, create forks, and collaberate successfully.
